@@ -1,0 +1,29 @@
+.tableField {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    min-height: 400px;
+    border: 15px solid rgb(255, 187, 0);
+    border-radius: 100px;
+    background-color: greenyellow;
+}
+
+.cardRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.cardPlace {
+    margin: 2px;
+}
+
+.tableTitle {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 3rem;
+    font-weight: bold;
+    color: rgb(54, 218, 51);
+}
