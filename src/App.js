@@ -1,11 +1,11 @@
 import "./App.css";
 import React, { Component } from "react";
-import Table from "./components/Table/Table";
+import Room from "./components/Room/Room";
 
 const App = () => {
   return (
     <div className="App">
-      <Table />
+      <Room />
     </div>
   );
 }
